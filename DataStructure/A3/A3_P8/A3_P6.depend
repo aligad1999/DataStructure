@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1492672016 source:c:\users\mourad\desktop\a3\a3_p6\intstack.cpp
+
+1492716697 source:c:\users\mourad\desktop\a3\a3_p6\main.cpp
+	<iostream>
+	"IntStack.h"
+
+1492716689 c:\users\mourad\desktop\a3\a3_p6\intstack.h
+	<queue>
+	<iostream>
+

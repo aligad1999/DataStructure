@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1492014486 source:c:\users\mourad\desktop\a3\a3_p3\main.cpp
+	<iostream>
+	"queue.h"
+
+1492014207 c:\users\mourad\desktop\a3\a3_p3\queue.h
+	"list.h"
+
+1492013320 c:\users\mourad\desktop\a3\a3_p3\list.h
+	<stdexcept>
+

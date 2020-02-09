@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492629198 source:c:\users\mourad\desktop\a3\a3_p5\main.cpp
+	<iostream>
+	<string>
+	<stack>
+

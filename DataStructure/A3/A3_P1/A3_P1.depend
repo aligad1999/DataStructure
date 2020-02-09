@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1491700530 source:c:\users\mourad\desktop\a3\a3_p1\list.cpp
+	"list.h"
+
+1492026541 c:\users\mourad\desktop\a3\a3_p1\list.h
+	<stdexcept>
+
+1492012131 source:c:\users\mourad\desktop\a3\a3_p1\main.cpp
+	<iostream>
+	"list.h"
+

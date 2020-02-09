@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1492013394 source:c:\users\mourad\desktop\a3\a3_p2\main.cpp
+	<iostream>
+	"stack.h"
+
+1492012693 c:\users\mourad\desktop\a3\a3_p2\stack.h
+	"list.h"
+
+1492013320 c:\users\mourad\desktop\a3\a3_p2\list.h
+	<stdexcept>
+
